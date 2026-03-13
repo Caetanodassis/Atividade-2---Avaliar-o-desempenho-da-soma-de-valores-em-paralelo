@@ -1,0 +1,1 @@
+# Atividade-2---Avaliar-o-desempenho-da-soma-de-valores-em-paralelo
